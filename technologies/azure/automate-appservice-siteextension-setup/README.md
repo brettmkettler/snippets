@@ -36,6 +36,8 @@ Before executing the script, make sure you are signed-in with Azure CLI. For mor
 ./automate-siteextension.ps1 -subscription "Demo" -resourceGroup "MyAppServiceGroup" -appName "MyApp" -environmentId ="XXXXXX" -apiToken ="XXXX"
 ``` 
 
+## Kuda Creditials
+https://github.com/projectkudu/kudu/wiki/Deployment-credentials
 
 ## License
 This project is licensed under [Apache 2.0 license](LICENSE).
